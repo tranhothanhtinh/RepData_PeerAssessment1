@@ -37,4 +37,6 @@ plot(data$Date_Time[!is.na(data$Date_Time)],
      xlab = "",
      ylab = "Global Active Power (kilowatts)")
 
+# Step 6: Close png Device
+
 dev.off()

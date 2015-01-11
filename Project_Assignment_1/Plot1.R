@@ -37,6 +37,6 @@ hist(data$Global_active_power,
      xlab = "Global Active Power (kilowatts)",
      breaks = 12, ylim = c(0, 1200))
 
-# Step 6: Close Device png Device
+# Step 6: Close png Device
 
 dev.off()

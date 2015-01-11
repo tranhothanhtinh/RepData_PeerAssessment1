@@ -54,5 +54,6 @@ legend("topright",
        col = c("black", "red", "blue"),
        c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
        lwd = 1)
+# Step 6: Close png Device
 
 dev.off()

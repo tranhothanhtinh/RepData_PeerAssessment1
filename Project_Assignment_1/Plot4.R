@@ -83,4 +83,6 @@ plot(data$Date_Time[!is.na(data$Date_Time)],
      xlab = "datetime",
      ylab = "Global_reactive_power")
 
+# Step 6: Close png Device
+
 dev.off()
