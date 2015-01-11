@@ -2,7 +2,7 @@
 
 #step 1: set working directory 
 
-setwd("D:/Coursera/Data_Science/Exploratory Data Analysis/Project Course 1")
+# setwd("D:/Coursera/Data_Science/Exploratory Data Analysis/Project Course 1")
 
 # Step 2: Load file in dataset "raw_data"
 
