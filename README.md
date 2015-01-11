@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-Please save Dataset: Electric power consumption [20Mb] in your working directory before run my R codes
-======
-======
 # ExDaAnalysis
->>>>>>> 39c577d5ab8a170540b1eb3d5878b4879221947e
+
+Please save Dataset: Electric power consumption in your working directory before running my R codes
+======
+======
 
 
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
